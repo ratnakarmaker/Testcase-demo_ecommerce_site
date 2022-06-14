@@ -5,6 +5,7 @@
     4.Add to Cart
     5.Process to Checkout
 # Check list of 
-    1.Email
+    1.Email field
     2.Password field
-    3.Zipcode
+    3.Zipcode field
+    
